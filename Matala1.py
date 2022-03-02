@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""           
+         
 
 #%%
 def my_func(x1,x2,x3):
